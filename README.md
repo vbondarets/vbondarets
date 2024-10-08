@@ -13,23 +13,23 @@
 <h2 align="center">My skills</h2>
 <h3 align="left">Frontend:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,electron,nextjs,redux,tailwind,styledcomponents,materialui,bootstrap,firebase,vite,graphql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,electron,nextjs,redux,tailwind,styledcomponents,materialui,bootstrap,firebase,vite,graphql)](https://cv.djinni.co/f4/b529daf63773f722b8fc7b057ef8ec/CV_Bondarets_Volodymyr.pdf)
 
 <h3 align="left">Backend:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest,graphql,docker,aws,firebase,gcp,redis,mongodb,mysql,postgres,sqlite,sequelize,prisma,postman,jest,tensorflow,regex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest,graphql,docker,aws,firebase,gcp,redis,mongodb,mysql,postgres,sqlite,sequelize,prisma,postman,jest,tensorflow,regex)](https://cv.djinni.co/f4/b529daf63773f722b8fc7b057ef8ec/CV_Bondarets_Volodymyr.pdf)
 
 <h3 align="left">Devops:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=bash,nginx,docker,githubactions,aws,heroku,cloudflare,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,nginx,docker,githubactions,aws,heroku,cloudflare,gcp)](https://cv.djinni.co/f4/b529daf63773f722b8fc7b057ef8ec/CV_Bondarets_Volodymyr.pdf)
 
 <h3 align="left">Workflow environment:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,windows,apple,ubuntu,kali,npm,yarn,vscode,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,apple,ubuntu,kali,npm,yarn,vscode,github)](https://cv.djinni.co/f4/b529daf63773f722b8fc7b057ef8ec/CV_Bondarets_Volodymyr.pdf)
 
 <h3 align="left">Other skills:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,bun,c,cpp,cmake,bots,figma,gradle,gtk,java,notion,powershell,py,pytorch,ruby,svg,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,bun,c,cpp,cmake,bots,figma,gradle,gtk,java,notion,powershell,py,pytorch,ruby,svg,visualstudio)](https://cv.djinni.co/f4/b529daf63773f722b8fc7b057ef8ec/CV_Bondarets_Volodymyr.pdf)
 
 <!--
 **vbondarets/vbondarets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
