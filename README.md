@@ -14,6 +14,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vbondarets/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HTrip)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bondatretsdirect@gmail.com)
+[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white&style=for-the-badge&logoSize=48)](https://steamcommunity.com/id/BWITW/)
+
 
 <h2 align="center">My skills</h2>
 <h3 align="left">Frontend:</h3>
