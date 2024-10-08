@@ -1,6 +1,10 @@
 <h2 align="center"> Hi there, my name is Volodymyr 👋</h2>
 <h3 align="center">Full-stack developer</h3>
 
+<h4 align="left">🔭 I’m currently working on my own AI betting platform for eSports events</h4>
+<h4 align="left">🌱 I’m currently learning AI, ML and crypto tools</h4>
+
+
 <h3 align="left"> GitHub viewers: </h3> 
 <a href="https://u8views.com/github/vbondarets"><img src="https://u8views.com/api/v1/github/profiles/90688082/views/day-week-month-total-count.svg"></a>
 
@@ -31,6 +35,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,bun,c,cpp,cmake,bots,figma,gradle,gtk,java,notion,powershell,py,pytorch,ruby,svg,visualstudio)](https://cv.djinni.co/f4/b529daf63773f722b8fc7b057ef8ec/CV_Bondarets_Volodymyr.pdf)
 
+<h2 align="center">GitHub activity:</h2>
+
+![GitHub activity](https://github-readme-activity-graph.vercel.app/graph?username=vbondarets&theme=github&days=60)
+
+![GitHub activity](https://github-readme-stats.vercel.app/api?username=vbondarets&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)
+
+![GitHub activity](https://streak-stats.demolab.com?user=vbondarets&theme=transparent&hide_border=true&exclude_days=Sun%2CSat&card_width=500&card_height=200)
 <!--
 **vbondarets/vbondarets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
