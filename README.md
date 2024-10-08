@@ -26,7 +26,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest,graphql,docker,aws,firebase,gcp,redis,mongodb,mysql,postgres,sqlite,sequelize,prisma,postman,jest,tensorflow,regex)](https://cv.djinni.co/f4/b529daf63773f722b8fc7b057ef8ec/CV_Bondarets_Volodymyr.pdf)
 
-<h3 align="left">Devops:</h3>
+<h3 align="left">DevOps:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=bash,nginx,docker,githubactions,aws,heroku,cloudflare,gcp)](https://cv.djinni.co/f4/b529daf63773f722b8fc7b057ef8ec/CV_Bondarets_Volodymyr.pdf)
 
