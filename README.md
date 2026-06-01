@@ -1,6 +1,6 @@
 <div align="center"><img src="./gifs/warhammer40k-space-marine-walk-warhammer40k-space-marine.gif" width="100%" alt="animation.gif"></div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=70&lines=Hi+there%2C+my+name+is+Volodymyr;And+I'm+a+Full-stack+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=70&lines=Hi+there%2C+my+name+is+Volodymyr;And+I'm+a+Full-stack+Engineer)](https://git.io/typing-svg)
 
 <h4 align="left">🔭 I’m currently working on my own AI betting platform for eSports events</h4>
 <h4 align="left">🌱 I’m currently learning AI, ML and Web3</h4>
