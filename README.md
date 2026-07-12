@@ -2,8 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=70&lines=Hi+there%2C+my+name+is+Volodymyr;And+I'm+a+Full-stack+Engineer)](https://git.io/typing-svg)
 
-<h4 align="left">🔭 I’m currently working on my own AI betting platform for eSports events</h4>
-<h4 align="left">🌱 I’m currently learning AI, ML and Web3</h4>
+<h4 align="left">🎮 Building my own AI-powered betting platform for eSports &amp; events — now live</h4>
+<h4 align="left">👁️ Diving deep into Computer Vision — detection, tracking &amp; on-device (edge) AI</h4>
+<h4 align="left">🤖 Exploring LLM agents, RAG pipelines, ML and Web3</h4>
 
 
 <h3 align="left"> GitHub viewers: </h3> 
@@ -20,23 +21,27 @@
 <h2 align="center">My skills</h2>
 <h3 align="left">Frontend:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,electron,nextjs,redux,tailwind,styledcomponents,materialui,bootstrap,firebase,vite,graphql)](https://cv.djinni.co/f4/b529daf63773f722b8fc7b057ef8ec/CV_Bondarets_Volodymyr.pdf)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,electron,nextjs,svelte,redux,tailwind,styledcomponents,materialui,bootstrap,firebase,vite,graphql)](https://cv.djinni.co/06/970da2e649269ed9b4546ab4c24893/CV_Bondarets_Volodymyr_2026_Q2.pdf)
 
 <h3 align="left">Backend:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest,graphql,docker,aws,firebase,gcp,redis,mongodb,mysql,postgres,sqlite,sequelize,prisma,postman,jest,tensorflow,regex)](https://cv.djinni.co/f4/b529daf63773f722b8fc7b057ef8ec/CV_Bondarets_Volodymyr.pdf)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,graphql,docker,aws,firebase,gcp,redis,mongodb,mysql,postgres,sqlite,sequelize,prisma,postman,jest,regex)](https://cv.djinni.co/06/970da2e649269ed9b4546ab4c24893/CV_Bondarets_Volodymyr_2026_Q2.pdf)
+
+<h3 align="left">AI / ML &amp; Computer Vision:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,sklearn)](https://cv.djinni.co/06/970da2e649269ed9b4546ab4c24893/CV_Bondarets_Volodymyr_2026_Q2.pdf)
 
 <h3 align="left">DevOps:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=bash,nginx,docker,githubactions,aws,heroku,cloudflare,gcp)](https://cv.djinni.co/f4/b529daf63773f722b8fc7b057ef8ec/CV_Bondarets_Volodymyr.pdf)
+[![My Skills](https://skillicons.dev/icons?i=bash,nginx,docker,kubernetes,githubactions,bitbucket,terraform,aws,gcp,cloudflare,heroku,grafana,prometheus,sentry)](https://cv.djinni.co/06/970da2e649269ed9b4546ab4c24893/CV_Bondarets_Volodymyr_2026_Q2.pdf)
 
 <h3 align="left">Workflow environment:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,windows,apple,ubuntu,kali,npm,yarn,vscode,github)](https://cv.djinni.co/f4/b529daf63773f722b8fc7b057ef8ec/CV_Bondarets_Volodymyr.pdf)
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,apple,ubuntu,kali,git,github,vscode,npm,yarn,pnpm,obsidian)](https://cv.djinni.co/06/970da2e649269ed9b4546ab4c24893/CV_Bondarets_Volodymyr_2026_Q2.pdf)
 
 <h3 align="left">Other skills:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,bun,c,cpp,cmake,bots,figma,gradle,gtk,java,notion,powershell,py,pytorch,ruby,svg,visualstudio)](https://cv.djinni.co/f4/b529daf63773f722b8fc7b057ef8ec/CV_Bondarets_Volodymyr.pdf)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,bun,c,cpp,cmake,solidity,bots,figma,gradle,gtk,java,notion,powershell,ruby,svg,visualstudio)](https://cv.djinni.co/06/970da2e649269ed9b4546ab4c24893/CV_Bondarets_Volodymyr_2026_Q2.pdf)
 
 <h2 align="center">GitHub activity:</h2>
 <div align="center">
